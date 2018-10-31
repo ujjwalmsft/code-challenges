@@ -2,7 +2,7 @@
 {
     public static class SearchConfig
     {
-        public const string SearchName = "";
-        public const string SearchApiKey = "";
+        public const string SearchName = "ADD YOUR SERVICE NAME";
+        public const string SearchApiKey = "ADD YOUR SERVICE API KEY";
     }
 }
